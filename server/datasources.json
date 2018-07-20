@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "ds143971.mlab.com",
+    "port": 43971,
+    "url": "",
+    "database": "kings",
+    "password": "KASL1234",
+    "name": "db",
+    "user": "dbuser",
+    "connector": "mongodb"
+  }
+}

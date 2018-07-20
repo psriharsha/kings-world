@@ -1,0 +1,23 @@
+{
+  "name": "sub-class",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "sub-class-name": {
+      "type": "string",
+      "required": true
+    },
+    "default-volume": {
+      "type": "number",
+      "required": true,
+      "default": 2.5
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
